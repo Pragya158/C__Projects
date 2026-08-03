@@ -28,7 +28,7 @@ This project demonstrates the following C programming concepts :-
 3. The `switch-case` statement performs the selected operation.
 4. For options 1-4 , the program takes two numbers as input.
 5. In division , the program checks whether the second number is zero to prevent division by zero.
-6. The calulator continues running until the user selects 5 (Exit).
+6. The calculator continues running until the user selects 5 (Exit).
 
 ▶ How to Run
 
@@ -39,7 +39,7 @@ gcc calculator.c -o calculator
   
 ### Run 
 ```bash 
-./calulator
+./calculator 
 ```
 
 📸 Output Screenshots
