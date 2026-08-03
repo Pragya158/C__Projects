@@ -45,22 +45,22 @@ gcc calculator.c -o calculator
 📸 Output Screenshots
 
 ### 1. Addition (+) Result 
-![Addition] (images/addition.png)
+![Addition](images/addition.png)
 
 ### 2. Subtraction (-) Result
-![Subtraction] (images/subtraction.png)
+![Subtraction](images/subtraction.png)
 
 ### 3. Multiplication (*) Result
-![Multiplication] (images/multiplication.png)
+![Multiplication](images/multiplication.png)
 
 ### 4. Division (/) Result
-![Division] (images/division.png)
+![Division](images/division.png)
 
 ### 5. Division by zero Error Handling
-![Division Error] (images/division__error.png)
+![Division Error](images/division__error.png)
 
 ### 6. Invalid Input Handling (Default Case)
-![Invalid Choice] (images/invalid__choice.png)
+![Invalid Choice](images/invalid__choice.png)
 
 📚 What I Learned
 Through this project , I practiced using loops, switch-case, conditional statements, function like `printf()` and `scanf()` and arithmetic operations in C.
